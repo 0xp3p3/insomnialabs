@@ -116,13 +116,13 @@ Provide comprehensive documentation including setup instructions, API usage, and
 
 ### Example Request
 ```bash
-curl GET http://localhost:5000/total-volume
+curl GET http://localhost:3000/total-volume
 ```
 ```bash
-curl GET localhost:5000/top-accounts?from=2024-06-10 20:54:06&to=2024-06-11 20:54:15&limit=5&offset=0
+curl GET localhost:3000/top-accounts?from=2024-06-10 20:54:06&to=2024-06-11 20:54:15&limit=5&offset=0
 ```
 ```bash
-curl GET localhost:5000/transfers?sort=amount&direction=DESC&limit=3
+curl GET localhost:3000/transfers?sort=amount&direction=DESC&limit=3
 ```
 
 ### Example Response
