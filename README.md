@@ -103,8 +103,8 @@ Provide comprehensive documentation including setup instructions, API usage, and
 ## API Documentation
 ### Endpoints
 - **GET /total-volume**
-  - **Description**: Fetch total volumes of tranfers.
-  - **Response**: Total Volum of all transfers.
+  - **Description**: Fetch total volumes of transfers.
+  - **Response**: Total Volume of all transfers.
 
 - **GET /top-accounts**
   - **Description**: Fetch top accounts from the database with filters.
