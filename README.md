@@ -197,3 +197,6 @@ curl GET localhost:3000/transfers?sort=amount&direction=DESC&limit=3
 
 ## Conclusion
 The Avalanche USDC Transfer Analyzer provides a robust backend service to monitor, aggregate, and analyze USDC transactions on the Avalanche blockchain. By leveraging Node.js, TypeScript, and PostgreSQL, it ensures real-time data processing and reliable API endpoints for accessing transaction insights. This documentation serves as a comprehensive guide to understand, set up, and extend the service.
+
+## About Me
+Email: cordovaemanuelladan@gmail.com
