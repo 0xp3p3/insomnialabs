@@ -1,5 +1,3 @@
-# Backend Engineer (Contract) Test Assignment - Insomnia Labs
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Architecture Overview](#architecture-overview)
@@ -66,7 +64,7 @@ Provide comprehensive documentation including setup instructions, API usage, and
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd insomnialabs-test
+   cd insomnialabs
    ```
 
 2. **Install dependencies**:
